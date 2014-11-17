@@ -1,3 +1,4 @@
+剑走偏锋：细数Shell那些事  http://www.freebuf.com/articles/system/50361.html
 ## Background
 
 Sometimes, network administrators make the penetration tester's life harder. Some of them do use firewalls for what they are meant to, surprisingly!
